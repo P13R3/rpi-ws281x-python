@@ -1,0 +1,3 @@
+[submodule "library/lib"]
+	path = library/lib
+	url = https://github.com/P13R3/rpi_ws281x
