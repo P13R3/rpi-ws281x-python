@@ -12,7 +12,7 @@ class CustomInstallCommand(build_py):
         print("Compiling ws281x library...")
         build_py.run(self)
 
-setup(name              = 'rpi_ws281x',
+setup(name              = 'rpi_ws281x_3bp_spi1',
       version           = '4.3.3',
       author            = 'Jeremy Garff <jer@jers.net>, Phil Howard <phil@pimoroni.com>',
       author_email      = 'jer@jers.net, phil@pimoroni.com',
