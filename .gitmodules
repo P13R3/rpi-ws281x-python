@@ -1,3 +1,0 @@
-[submodule "rpi_ws281x"]
-	path = rpi_ws281x
-	url = https://github.com/P13R3/rpi_ws281x
