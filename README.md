@@ -1,13 +1,6 @@
-# RPi WS281x Python
+# RPi 3B+ WS281x Python, SPI1
+Fork of https://github.com/rpi-ws281x/rpi-ws281x-python.
+This use the SP1 instead of SPI0, tested with RP3B+
 
-This is the official Python distribution of the ws281x library: http://github.com/richardghirst/rpi_ws281x
 
-# Installing
 
-## From pip
-
-Most users should simply run:
-
-```
-sudo pip install rpi_ws281x
-```
